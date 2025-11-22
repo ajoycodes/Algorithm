@@ -1,0 +1,12 @@
+# ninja log v6
+2	89	1763791580888409672	build.ninja	106907c1395e13c3
+0	280	1763788037238223191	CMakeFiles/DijkstraTest.dir/shortestReach2.cpp.o	90bb0f83c28a9ea7
+2	89	1763791580887889284	/Users/ajoysaha/Desktop/Algorithm Lab Test Nov/Dijkstra/cmake-build-debug/cmake_install.cmake	106907c1395e13c3
+3	349	1763788624333374378	CMakeFiles/DijkstraTest.dir/sendingEmail.cpp.o	ac6578caad43fbae
+2	55	1763790063324212344	DijkstraTest	e9112d73e91e6136
+9	385	1763790035954175065	CMakeFiles/DijkstraTest.dir/shortestRoute1.cpp.o	3dd57373af4a58b1
+10	412	1763790035954724742	CMakeFiles/DijkstraTest.dir/templateB_Path_Reconstruct.cpp.o	ec4fca1798fa69e8
+1	75	1763791580888409672	build.ninja	106907c1395e13c3
+1	75	1763791580888409672	/Users/ajoysaha/Desktop/Algorithm Lab Test Nov/Dijkstra/cmake-build-debug/cmake_install.cmake	106907c1395e13c3
+1	338	1763791592238494476	CMakeFiles/DijkstraTest.dir/multiSourceDijkstra.cpp.o	794a4952f8cd46f2
+338	439	1763791592575967055	DijkstraTest	d67023c4c4284edb
