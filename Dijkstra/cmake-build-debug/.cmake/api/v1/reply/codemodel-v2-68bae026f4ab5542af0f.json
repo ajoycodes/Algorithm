@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "DijkstraTest::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-DijkstraTest-Debug-2eb9ab27f6e1f758f6e5.json",
+					"jsonFile" : "target-DijkstraTest-Debug-e7c6f200dd3575d20a84.json",
 					"name" : "DijkstraTest",
 					"projectIndex" : 0
 				}
@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/Users/ajoysaha/Desktop/Algorithm Lab Test Nov/Dijkstra/cmake-build-debug",
-		"source" : "/Users/ajoysaha/Desktop/Algorithm Lab Test Nov/Dijkstra"
+		"build" : "/Users/ajoysaha/Desktop/Academics 2-2/Algorithm Lab Test Nov/Dijkstra/cmake-build-debug",
+		"source" : "/Users/ajoysaha/Desktop/Academics 2-2/Algorithm Lab Test Nov/Dijkstra"
 	},
 	"version" : 
 	{

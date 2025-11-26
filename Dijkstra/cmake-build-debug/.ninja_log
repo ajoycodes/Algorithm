@@ -1,9 +1,10 @@
 # ninja log v6
-1	75	1763794304102947826	build.ninja	106907c1395e13c3
-0	280	1763788037238223191	CMakeFiles/DijkstraTest.dir/shortestReach2.cpp.o	90bb0f83c28a9ea7
-1	75	1763794304102527650	/Users/ajoysaha/Desktop/Algorithm Lab Test Nov/Dijkstra/cmake-build-debug/cmake_install.cmake	106907c1395e13c3
-3	349	1763788624333374378	CMakeFiles/DijkstraTest.dir/sendingEmail.cpp.o	ac6578caad43fbae
-338	439	1763791592575967055	DijkstraTest	d67023c4c4284edb
-9	385	1763790035954175065	CMakeFiles/DijkstraTest.dir/shortestRoute1.cpp.o	3dd57373af4a58b1
-10	412	1763790035954724742	CMakeFiles/DijkstraTest.dir/templateB_Path_Reconstruct.cpp.o	ec4fca1798fa69e8
 1	338	1763791592238494476	CMakeFiles/DijkstraTest.dir/multiSourceDijkstra.cpp.o	794a4952f8cd46f2
+338	439	1763791592575967055	DijkstraTest	d67023c4c4284edb
+1	75	1764168402620653035	build.ninja	106907c1395e13c3
+2	71	1764168402620653035	build.ninja	6d8862233c5b1cec
+2	71	1764168402620653035	/Users/ajoysaha/Desktop/Academics 2-2/Algorithm Lab Test Nov/Dijkstra/cmake-build-debug/cmake_install.cmake	6d8862233c5b1cec
+1	363	1764168422638340920	CMakeFiles/DijkstraTest.dir/Users/ajoysaha/Desktop/Academics_2-2/Algorithm_Lab_Test_Nov/Floyd_Warshall/FloydTemplate.cpp.o	a65c8d8287c52bf2
+364	467	1764168423000507850	DijkstraTest	4b4d073dafa953bc
+3	259	1764168591325185345	CMakeFiles/DijkstraTest.dir/Users/ajoysaha/Desktop/Academics_2-2/Algorithm_Lab_Test_Nov/Floyd_Warshall/FloydTemplate.cpp.o	a65c8d8287c52bf2
+259	294	1764168591580747310	DijkstraTest	4b4d073dafa953bc
