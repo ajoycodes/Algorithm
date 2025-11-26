@@ -21,6 +21,22 @@ void floyd_warshall(vector<vector<ll>> &dist, int n) {
             }
         }
     }
+
+    // ---------------- NEGATIVE CYCLE DETECTION ----------------
+    // If dist[k][k] < 0 → node k is part of a negative cycle
+    // Mark all dist[i][j] reachable through k as -INF
+    for (int k = 1; k <= n; k++) {
+        if (dist[k][k] < 0) {       // negative cycle detected
+            for (int i = 1; i <= n; i++) {
+                if (dist[i][k] == INF) continue;
+                for (int j = 1; j <= n; j++) {
+                    if (dist[k][j] == INF) continue;
+                    dist[i][j] = -INF;     // affected by negative cycle
+                }
+            }
+        }
+    }
+
 }
 
 int main() {
@@ -55,12 +71,18 @@ int main() {
         while (q--) {
             int u, v;
             cin >> u >> v;
-            if (dist[u][v] >= INF / 2) cout << "NO PATH\n";
-            else cout << dist[u][v] << "\n";
+            if (dist[u][v] == INF) {
+                cout << "NO PATH\n";
+            }
+            else if (dist[u][v] == -INF) {
+                cout << "NEGATIVE CYCLE\n";
+            }
+            else {
+                cout << dist[u][v] << "\n";
+            }
+
+            if (T) cout << "\n";  // blank line between cases (common in UVA)
         }
-
-        if (T) cout << "\n";  // blank line between cases (common in UVA)
     }
-
     return 0;
 }
