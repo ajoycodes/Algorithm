@@ -1,5 +1,43 @@
 # ninja log v6
-259	294	1764168591580747310	DijkstraTest	4b4d073dafa953bc
-2	71	1764210783877822540	build.ninja	6d8862233c5b1cec
-2	71	1764210783877250544	/Users/ajoysaha/Desktop/Academics 2-2/Algorithm Lab Test Nov/Dijkstra/cmake-build-debug/cmake_install.cmake	6d8862233c5b1cec
 3	259	1764168591325185345	CMakeFiles/DijkstraTest.dir/Users/ajoysaha/Desktop/Academics_2-2/Algorithm_Lab_Test_Nov/Floyd_Warshall/FloydTemplate.cpp.o	a65c8d8287c52bf2
+1	74	1764220647216606685	/Users/ajoysaha/Desktop/Academics 2-2/Algorithm Lab Test Nov/Dijkstra/cmake-build-debug/cmake_install.cmake	6d8862233c5b1cec
+1	74	1764220647217057270	build.ninja	6d8862233c5b1cec
+4	310	1764218791879852159	CMakeFiles/DijkstraTest.dir/Users/ajoysaha/Desktop/Academics_2-2/Algorithm_Lab_Test_Nov/LIS_LCS/twinTower.cpp.o	7fdcb40d60a533c9
+10	473	1764217413613909306	CMakeFiles/DijkstraTest.dir/Users/ajoysaha/Desktop/Academics_2-2/Algorithm_Lab_Test_Nov/LIS_LCS/LCSTemplate.cpp.o	bcc26b99eebb1d75
+310	344	1764218792186205417	DijkstraTest	e4ddd77a9ac1e5ac
+0	55	1764220647217057270	build.ninja	6d8862233c5b1cec
+0	55	1764220647217057270	/Users/ajoysaha/Desktop/Academics 2-2/Algorithm Lab Test Nov/Dijkstra/cmake-build-debug/cmake_install.cmake	6d8862233c5b1cec
+0	283	1764220684681600361	CMakeFiles/DijkstraTest.dir/theAverageDistance.cpp.o	b6e40f7585a7c2bb
+284	371	1764220684965147273	DijkstraTest	1826936655a422c2
+4	339	1764220787189274779	CMakeFiles/DijkstraTest.dir/theAverageDistance.cpp.o	b6e40f7585a7c2bb
+339	374	1764220787525142500	DijkstraTest	1826936655a422c2
+3	277	1764220801938250367	CMakeFiles/DijkstraTest.dir/theAverageDistance.cpp.o	b6e40f7585a7c2bb
+277	311	1764220802212707128	DijkstraTest	1826936655a422c2
+3	281	1764220813216693295	CMakeFiles/DijkstraTest.dir/theAverageDistance.cpp.o	b6e40f7585a7c2bb
+281	312	1764220813494505981	DijkstraTest	1826936655a422c2
+2	275	1764220842571125282	CMakeFiles/DijkstraTest.dir/theAverageDistance.cpp.o	b6e40f7585a7c2bb
+275	308	1764220842844151247	DijkstraTest	1826936655a422c2
+3	261	1764221020895754679	CMakeFiles/DijkstraTest.dir/theAverageDistance.cpp.o	b6e40f7585a7c2bb
+262	295	1764221021154074973	DijkstraTest	1826936655a422c2
+3	272	1764221068577030801	CMakeFiles/DijkstraTest.dir/theAverageDistance.cpp.o	b6e40f7585a7c2bb
+273	306	1764221068846616822	DijkstraTest	1826936655a422c2
+3	272	1764221079001973839	CMakeFiles/DijkstraTest.dir/theAverageDistance.cpp.o	b6e40f7585a7c2bb
+272	304	1764221079270717930	DijkstraTest	1826936655a422c2
+3	257	1764221086768305237	CMakeFiles/DijkstraTest.dir/theAverageDistance.cpp.o	b6e40f7585a7c2bb
+257	289	1764221087022399950	DijkstraTest	1826936655a422c2
+4	336	1764221191792354483	CMakeFiles/DijkstraTest.dir/theAverageDistance.cpp.o	b6e40f7585a7c2bb
+336	371	1764221192125086920	DijkstraTest	1826936655a422c2
+2	284	1764221212034113415	CMakeFiles/DijkstraTest.dir/theAverageDistance.cpp.o	b6e40f7585a7c2bb
+284	316	1764221212315703935	DijkstraTest	1826936655a422c2
+3	266	1764221244030864822	CMakeFiles/DijkstraTest.dir/theAverageDistance.cpp.o	b6e40f7585a7c2bb
+266	300	1764221244294407614	DijkstraTest	1826936655a422c2
+2	267	1764221285602582164	CMakeFiles/DijkstraTest.dir/theAverageDistance.cpp.o	b6e40f7585a7c2bb
+267	302	1764221285867411506	DijkstraTest	1826936655a422c2
+4	355	1764221360138135039	CMakeFiles/DijkstraTest.dir/theAverageDistance.cpp.o	b6e40f7585a7c2bb
+355	390	1764221360488761452	DijkstraTest	1826936655a422c2
+3	321	1764221431149576680	CMakeFiles/DijkstraTest.dir/theAverageDistance.cpp.o	b6e40f7585a7c2bb
+321	355	1764221431467034113	DijkstraTest	1826936655a422c2
+4	352	1764221502166588191	CMakeFiles/DijkstraTest.dir/theAverageDistance.cpp.o	b6e40f7585a7c2bb
+352	385	1764221502514243004	DijkstraTest	1826936655a422c2
+2	280	1764221521072117302	CMakeFiles/DijkstraTest.dir/theAverageDistance.cpp.o	b6e40f7585a7c2bb
+280	313	1764221521349637340	DijkstraTest	1826936655a422c2
