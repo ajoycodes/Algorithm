@@ -49,8 +49,7 @@
 			},
 			"sourceIndexes" : 
 			[
-				0,
-				1
+				0
 			]
 		}
 	],
@@ -79,19 +78,12 @@
 			"name" : "Source Files",
 			"sourceIndexes" : 
 			[
-				0,
-				1
+				0
 			]
 		}
 	],
 	"sources" : 
 	[
-		{
-			"backtrace" : 1,
-			"compileGroupIndex" : 0,
-			"path" : "/Users/ajoysaha/Desktop/Academics 2-2/Algorithm Lab Test Nov/Floyd Warshall/FloydTemplate.cpp",
-			"sourceGroupIndex" : 0
-		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,

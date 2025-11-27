@@ -49,13 +49,6 @@ cmake_ninja_workdir = /Users/ajoysaha/Desktop/Academics$ 2-2/Algorithm$ Lab$ Tes
 
 build cmake_object_order_depends_target_DijkstraTest: phony || .
 
-build CMakeFiles/DijkstraTest.dir/Users/ajoysaha/Desktop/Academics_2-2/Algorithm_Lab_Test_Nov/Floyd_Warshall/FloydTemplate.cpp.o: CXX_COMPILER__DijkstraTest_unscanned_Debug /Users/ajoysaha/Desktop/Academics$ 2-2/Algorithm$ Lab$ Test$ Nov/Floyd$ Warshall/FloydTemplate.cpp || cmake_object_order_depends_target_DijkstraTest
-  CONFIG = Debug
-  DEP_FILE = CMakeFiles/DijkstraTest.dir/Users/ajoysaha/Desktop/Academics_2-2/Algorithm_Lab_Test_Nov/Floyd_Warshall/FloydTemplate.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -fcolor-diagnostics
-  OBJECT_DIR = CMakeFiles/DijkstraTest.dir
-  OBJECT_FILE_DIR = CMakeFiles/DijkstraTest.dir/Users/ajoysaha/Desktop/Academics_2-2/Algorithm_Lab_Test_Nov/Floyd_Warshall
-
 build CMakeFiles/DijkstraTest.dir/Users/ajoysaha/Desktop/Academics_2-2/Algorithm_Lab_Test_Nov/Krushkal/KrushkalTemplate.cpp.o: CXX_COMPILER__DijkstraTest_unscanned_Debug /Users/ajoysaha/Desktop/Academics$ 2-2/Algorithm$ Lab$ Test$ Nov/Krushkal/KrushkalTemplate.cpp || cmake_object_order_depends_target_DijkstraTest
   CONFIG = Debug
   DEP_FILE = CMakeFiles/DijkstraTest.dir/Users/ajoysaha/Desktop/Academics_2-2/Algorithm_Lab_Test_Nov/Krushkal/KrushkalTemplate.cpp.o.d
@@ -71,7 +64,7 @@ build CMakeFiles/DijkstraTest.dir/Users/ajoysaha/Desktop/Academics_2-2/Algorithm
 #############################################
 # Link the executable DijkstraTest
 
-build DijkstraTest: CXX_EXECUTABLE_LINKER__DijkstraTest_Debug CMakeFiles/DijkstraTest.dir/Users/ajoysaha/Desktop/Academics_2-2/Algorithm_Lab_Test_Nov/Floyd_Warshall/FloydTemplate.cpp.o CMakeFiles/DijkstraTest.dir/Users/ajoysaha/Desktop/Academics_2-2/Algorithm_Lab_Test_Nov/Krushkal/KrushkalTemplate.cpp.o
+build DijkstraTest: CXX_EXECUTABLE_LINKER__DijkstraTest_Debug CMakeFiles/DijkstraTest.dir/Users/ajoysaha/Desktop/Academics_2-2/Algorithm_Lab_Test_Nov/Krushkal/KrushkalTemplate.cpp.o
   CONFIG = Debug
   FLAGS = -g -arch arm64
   OBJECT_DIR = CMakeFiles/DijkstraTest.dir
